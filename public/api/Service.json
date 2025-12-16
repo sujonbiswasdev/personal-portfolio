@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "img":"https://res.cloudinary.com/drmeagmkl/image/upload/v1765907176/Untitled_design_errqzu.png",
+        "Heading":"Front End Developer : React/Next.js Expert | Building Modern, Highly Responsive & Scalable User Interfaces with TypeScript & Tailwind CSS",
+        "des":"Lorem ipsum dolor sit amet . Imperdiet Lorem ipsum dolor sit amet consectetur"
+    },
+      {
+        "id":2,
+        "img":"https://res.cloudinary.com/drmeagmkl/image/upload/v1765908364/Untitled_design_1_oidyno.png",
+        "Heading":"Backend developer : Node.js & TypeScript Backend Developer (Prisma/PostgreSQL)",
+        "des":"Highly skilled and experienced Backend Developer specializing in the complete Node.js stack. Proficient in designing and building scalable, high-performance APIs using Node.js and Express.js, underpinned by robust TypeScript implementation for maximum reliability. Expert in modern data management utilizing Prisma as a powerful ORM with PostgreSQL to ensure efficient and secure data handling. Adept at full API lifecycle management, documentation, and delivering production-ready services."
+    },
+    {
+        "id":3,
+        "img":"https://res.cloudinary.com/drmeagmkl/image/upload/v1765909149/full-stack_a4vzjk.png",
+        "Heading":"Full Stack Developer: Javascript | Typescript| Next.js | React | Node.js (Express) | PostgreSQL | Prisma",
+        "des":"I am a seasoned and results-driven Full Stack Developer specializing in building modern, high-performance, and scalable web applications. My expertise spans the entire development lifecycle, from sophisticated front-end user experience to robust back-end architecture and efficient database management. I am committed to leveraging the latest technologies to solve complex business problems and ensure an exceptional user experience for your customers"
+    }
+   
+    
+    
+]

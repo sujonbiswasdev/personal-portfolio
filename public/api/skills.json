@@ -1,0 +1,159 @@
+[
+  {
+    "title":"frontend ",
+    "color":"#581c87",
+    "skill": [
+        
+      {
+        "id": 1,
+        "icon": "",
+        "percentage": "95",
+        "name": "Html"
+      },
+      {
+        "id": 2,
+        "icon": "",
+        "percentage": "90",
+        "name": "css"
+      },
+      {
+        "id": 3,
+        "icon": "",
+        "percentage": "85",
+        "name": "Javascript"
+      },
+        {
+        "id": 4,
+        "icon": "",
+        "percentage": "70",
+        "name": "typescript"
+      },
+      {
+        "id": 5,
+        "icon": "",
+        "percentage": "90",
+        "name": "React js"
+      },
+      {
+        "id": 5,
+        "icon": "",
+        "percentage": "60",
+        "name": "next js"
+      }
+    ]
+  },
+   {
+    "title":"styling",
+    "color":"#c026d3",
+    "skill": [
+        {
+        "id": 1,
+        "icon": "",
+        "percentage": "95",
+        "name": "tailwind"
+        },
+        {
+        "id": 2,
+        "icon": "",
+        "percentage": "95",
+        "name": "bootstrap"
+        },
+        {
+        "id": 3,
+        "icon": "",
+        "percentage": "95",
+        "name": "sass"
+        }
+    ]
+  },
+   {
+    "title":"tools",
+    "color":"#d97706",
+    "skill": [
+        {
+        "id": 1,
+        "icon": "",
+        "percentage": "95",
+        "name": "tailwind"
+        },
+        {
+        "id": 2,
+        "icon": "",
+        "percentage": "95",
+        "name": "github"
+        },
+        {
+        "id": 3,
+        "icon": "",
+        "percentage": "95",
+        "name": "vs code"
+        },
+        {
+        "id": 4,
+        "icon": "",
+        "percentage": "95",
+        "name": "vercel"
+        },
+        {
+        "id": 5,
+        "icon": "",
+        "percentage": "95",
+        "name": "netlify"
+        },
+        {
+        "id": 6,
+        "icon": "",
+        "percentage": "95",
+        "name": "vite"
+        },
+        {
+        "id": 7,
+        "icon": "",
+        "percentage": "95",
+        "name": "bun"
+        }
+    ]
+  },
+   {
+    "title":"UI/UX Design",
+    "color":"#15803d",
+    "skill": [
+        {
+        "id": 1,
+        "icon": "",
+        "percentage": "95",
+        "name": "figma"
+        },
+        {
+        "id": 2,
+        "icon": "",
+        "percentage": "95",
+        "name": "Responsive design"
+        },
+        {
+        "id": 3,
+        "icon": "",
+        "percentage": "95",
+        "name": "photoshop"
+        }
+    ]
+  },
+   {
+    "title":"others",
+    "color":"#db2777",
+    "skill": [
+        {
+        "id": 1,
+        "icon": "",
+        "percentage": "95",
+        "name": "api integration"
+        },
+        {
+        "id": 2,
+        "icon": "",
+        "percentage": "95",
+        "name": "seo friendly"
+        }
+    ]
+  }
+]
