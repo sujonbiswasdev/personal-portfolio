@@ -6,111 +6,160 @@
         
       {
         "id": 1,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
         "percentage": "95",
         "name": "Html"
       },
       {
         "id": 2,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
         "percentage": "90",
         "name": "css"
       },
       {
         "id": 3,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
         "percentage": "85",
         "name": "Javascript"
       },
         {
         "id": 4,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
         "percentage": "70",
         "name": "typescript"
       },
       {
         "id": 5,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
         "percentage": "90",
         "name": "React js"
       },
       {
         "id": 5,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
         "percentage": "60",
         "name": "next js"
       }
     ]
   },
    {
-    "title":"styling",
+    "title":"Backend",
     "color":"#c026d3",
     "skill": [
         {
         "id": 1,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
         "percentage": "95",
-        "name": "tailwind"
+        "name": "node js"
         },
         {
         "id": 2,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
         "percentage": "95",
-        "name": "bootstrap"
+        "name": "express js"
+        }
+
+    ]
+  },
+   {
+    "title":"database",
+    "color":"#c026d3",
+    "skill": [
+        {
+        "id": 1,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+        "percentage": "95",
+        "name": "postgresql"
         },
         {
-        "id": 3,
-        "icon": "",
+            "id": 2,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
         "percentage": "95",
-        "name": "sass"
+        "name": "MongoDB"
+        },
+        {
+            "id": 3,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg",
+        "percentage": "95",
+        "name": "Prisma"
+        },
+        {
+        "id": 2,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+        "percentage": "95",
+        "name": "firebase"
         }
     ]
   },
    {
-    "title":"tools",
+    "title":"DevOps & Tools",
     "color":"#d97706",
     "skill": [
         {
         "id": 1,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
         "percentage": "95",
-        "name": "tailwind"
+        "name": "Git"
         },
         {
         "id": 2,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
         "percentage": "95",
-        "name": "github"
+        "name": "Github"
         },
         {
         "id": 3,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg",
         "percentage": "95",
-        "name": "vs code"
+        "name": "Gitlab"
         },
         {
         "id": 4,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
         "percentage": "95",
-        "name": "vercel"
+        "name": "linux"
+        }
+    ]
+  },
+   {
+    "title":"DEPLOYMENT / HOSTING",
+    "color":"#d97706",
+    "skill": [
+        {
+        "id": 1,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg",
+        "percentage": "95",
+        "name": "Vercel"
+        },
+        {
+        "id": 2,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg",
+        "percentage": "95",
+        "name": "Netlify"
+        },
+        {
+        "id": 3,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg",
+        "percentage": "95",
+        "name": "render"
+        },
+        {
+        "id": 4,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg",
+        "percentage": "95",
+        "name": "Railway"
         },
         {
         "id": 5,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/neon.svg",
         "percentage": "95",
-        "name": "netlify"
+        "name": "Neon Db"
         },
         {
         "id": 6,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg",
         "percentage": "95",
-        "name": "vite"
-        },
-        {
-        "id": 7,
-        "icon": "",
-        "percentage": "95",
-        "name": "bun"
+        "name": "Supabase"
         }
     ]
   },
@@ -120,21 +169,21 @@
     "skill": [
         {
         "id": 1,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
         "percentage": "95",
         "name": "figma"
         },
         {
         "id": 2,
-        "icon": "",
-        "percentage": "95",
-        "name": "Responsive design"
-        },
-        {
-        "id": 3,
-        "icon": "",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg",
         "percentage": "95",
         "name": "photoshop"
+        },
+           {
+        "id": 3,
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg",
+        "percentage": "95",
+        "name": "Adobe Illustrator"
         }
     ]
   },
