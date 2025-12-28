@@ -21,10 +21,23 @@ const workData = [
     {
         id: 5,
         item: "Next js",
+    }, {
+        id: 6,
+        item: "Node js"
+    }, {
+        id: 7,
+        item: "Express js"
     },
     {
-        id: 6,
-        item: "dflsjfldsjf"
+        id: 8,
+        item: "Mongodb"
+    },
+    {
+        id: 9,
+        item: "postgresql"
+    }, {
+        id: 10,
+        item: "prisma"
     }
 ];
 const Portfolio = () => {
@@ -98,30 +111,30 @@ const Portfolio = () => {
                                 ))}
                             </div>
 
-                             {/* button components */}
+                            {/* button components */}
                             <div className="flex gap-1 md:gap-8 -mt-5 px-1 md:px-6 justify-between items-center mt-3">
                                 <a href={item.url} className="cursor-pointer">
                                     <Button
-                                    borderRadius="1.75rem"
-                                    className="bg-blue-900 dark:bg-slate-900 dark:text-white border-blue-950 dark:border-slate-800 text-white font-semibold cursor-pointer"
-                                >
-                                    Github
-                                </Button>
+                                        borderRadius="1.75rem"
+                                        className="bg-blue-900 dark:bg-slate-900 dark:text-white border-blue-950 dark:border-slate-800 text-white font-semibold cursor-pointer"
+                                    >
+                                        Github
+                                    </Button>
                                 </a>
-                               <a href={item.link} className="cursor-pointer">
-                                 <Button
-                                    borderRadius="1.75rem"
-                                    className="bg-blue-900 dark:bg-slate-900 dark:text-white border-blue-950 dark:border-slate-800 text-white font-semibold cursor-pointer"
-                                >
-                                    Live Demo
-                                </Button>
-                               </a>
+                                <a href={item.link} className="cursor-pointer">
+                                    <Button
+                                        borderRadius="1.75rem"
+                                        className="bg-blue-900 dark:bg-slate-900 dark:text-white border-blue-950 dark:border-slate-800 text-white font-semibold cursor-pointer"
+                                    >
+                                        Live Demo
+                                    </Button>
+                                </a>
                             </div>
                         </div>
                     })
                 }
 
-              
+
 
             </div>
         </div>
