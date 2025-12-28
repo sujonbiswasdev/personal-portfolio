@@ -30,6 +30,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
+        <meta name="google-site-verification" content="zC5DZoZrRDZu2NDT6BU8gW8jr70MJqt-Xxu1OS_dY5o" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-black`}
