@@ -61,7 +61,7 @@ const Portfolio = () => {
                         return <div key={item} className="max-w-[630px] max-h-[320px] mt-16 md:mt-20 hover:-translate-y-6 duration-200 transition-all mb-34 md:mb-60">
 
                             <div className="max-w-[600px] max-h-[300px] overflow-hidden">
-                                <img src={item.img} className="cursor-pointer aspect-3/2 object-cover overflow-scroll hover:scale-150 transition-all duration-300 rounded-lg" alt="sujon biswas" />
+                                <img src={item.img} className="cursor-pointer aspect-3/2 object-cover overflow-scroll hover:scale-120 transition-all duration-300 rounded-lg" alt="sujon biswas" />
                             </div>
                             <div className="border-2 border-primary mt-1">
 

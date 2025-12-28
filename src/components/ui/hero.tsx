@@ -62,10 +62,10 @@ export function ImagesSliderDemo() {
             </div>
 
             <div className="text-right md:max-w-[40%] w-full mr-0">
-              <div className="z-10 relative">
+              <div className="z-10 relative hover:-rotate-12 transition-all duration-150 cursor-pointer">
 
-                <img src="https://res.cloudinary.com/drmeagmkl/image/upload/v1764588921/11_mzks0k.png" className="z-0 px-6 md:px-0" alt="" />
-                <div className="absolute left-0 bottom-0 h-1/5 right-0 z-10  bg-gradient-to-t from-black to-transparent hidden md:block ml-3 "></div>
+                <img src="https://res.cloudinary.com/drmeagmkl/image/upload/v1766941482/chatgpt_m8tmep.png" className="z-0 px-6 rounded-3xl md:px-0" alt="" />
+                <div className="absolute left-0 bottom-0 h-1/5 cursor-pointer right-0 z-10  bg-gradient-to-t from-black to-transparent rounded-3xl md:block"></div>
               </div>
             </div>
           </div>

@@ -73,18 +73,12 @@
         },
         {
             "id": 2,
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
-        "percentage": "95",
-        "name": "MongoDB"
-        },
-        {
-            "id": 3,
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg",
         "percentage": "95",
         "name": "Prisma"
         },
         {
-        "id": 2,
+        "id":3,
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
         "percentage": "95",
         "name": "firebase"
