@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     
 
-<footer className="bg-neutral-primary-soft text-white mt-10">
-    <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+<footer className="bg-neutral-primary-soft text-white mt-14">
+    <div className="max-w-7xl mx-auto px-4 h-16">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
               <a href="/" className="flex items-center">
