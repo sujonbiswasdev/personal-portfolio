@@ -4,6 +4,7 @@ import { Size_template } from "@/components/styles"
 import Abouts from "./about/page"
 import Skills from "./skills/page"
 import Works from "./works/page"
+import Contact from "./contact/page"
 
 
 
@@ -21,6 +22,7 @@ const Home = () => {
         <Skills/>
         {/* works */}
         <Works/>
+        <Contact/>
       </Size_template>
 
     </div>

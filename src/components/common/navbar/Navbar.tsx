@@ -59,7 +59,7 @@ export default function Navbar() {
 
           {/* Contact Button */}
           <Link
-            href="#contact"
+            href="/contact"
             className="hidden md:inline-flex px-4 py-2 text-sm font-medium rounded-md bg-blue-600 text-white hover:bg-blue-700 transition"
           >
             Contact
@@ -90,7 +90,7 @@ export default function Navbar() {
               </Link>
             ))}
             <Link
-              href="#contact"
+              href="/contact"
               className="mt-4 px-4 py-2 rounded-md bg-blue-600 text-white text-center"
             >
               Contact

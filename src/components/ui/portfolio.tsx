@@ -55,20 +55,20 @@ const Portfolio = () => {
                 </div>
             </div>
 
-            <div className="grid grid-cols-1 xl:grid-cols-2 2xl:grid-cols-3 space-y-8 md:space-x-8 mt-10">
+            <div className="grid grid-cols-1 xl:grid-cols-2 2xl:grid-cols-3 space-y-8 sm:space-x-8 mt-10 mx-auto">
                 {
                     portfoliodata.map((item: any, index: number) => {
-                        return <div key={item} className="m-8 hover:-translate-y-1.5 duration-150 transition-all">
+                        return <div key={item} className="m-8 hover:-translate-y-1.5 duration-150 transition-all w-full md:max-w-[600px]">
 
-                            <div className="max-w-[600px] max-h-[350px] overflow-scroll">
-                                <img src={item.img} className="" alt="sujon biswas" />
+                            <div className="w-full md:max-w-[600px] max-h-[350px] overflow-scroll">
+                                <img src={item.img} className="w-full" alt="sujon biswas" />
                             </div>
                             <div className="border-2 border-primary mt-1">
 
                             </div>
                             <div className="mt-4 px-4 py-1">
-                                <h3 className="text-[17px] md:text-[20px] lg:text-[25px] xl:text-[30px] font-primary hover:text-primary cursor-pointer">{item.title}</h3>
-                                <p className="text-secoundary font-semibold text-[14px] md:text-base lg:text-[18px]">{item.des}</p>
+                                <h3 className="text-[17px] md:text-[20px] lg:text-[25px]  font-primary hover:text-primary cursor-pointer">{item.title}</h3>
+                                <p className="text-secoundary font-semibold text-[14px] md:text-base">{item.des}</p>
                             </div>
 
                             {/* technology sections */}
