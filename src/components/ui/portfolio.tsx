@@ -55,13 +55,13 @@ const Portfolio = () => {
                 </div>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 relative space-y-14 space-x-8 gap-3.5 mt-6 ">
+            <div className="grid grid-cols-1 xl:grid-cols-2 2xl:grid-cols-3 space-y-8 md:space-x-8 mt-10">
                 {
                     portfoliodata.map((item: any, index: number) => {
-                        return <div key={item} className="max-w-[630px] max-h-[320px] mt-16 md:mt-20 hover:-translate-y-6 duration-200 transition-all mb-34 md:mb-60">
+                        return <div key={item} className="m-8 hover:-translate-y-1.5 duration-150 transition-all">
 
-                            <div className="max-w-[600px] max-h-[300px] overflow-hidden">
-                                <img src={item.img} className="cursor-pointer aspect-3/2 object-cover overflow-scroll hover:scale-120 transition-all duration-300 rounded-lg" alt="sujon biswas" />
+                            <div className="max-w-[600px] max-h-[350px] overflow-scroll">
+                                <img src={item.img} className="" alt="sujon biswas" />
                             </div>
                             <div className="border-2 border-primary mt-1">
 
@@ -120,6 +120,9 @@ const Portfolio = () => {
                         </div>
                     })
                 }
+
+              
+
             </div>
         </div>
     );

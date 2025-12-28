@@ -26,7 +26,7 @@ const Abouts = () => {
 
         </div>
         <div className=' w-full md:max-w-[40%] pl-2'>
-          <img src="https://res.cloudinary.com/drmeagmkl/image/upload/v1765536346/sujonbiswas_exfo5o.jpg" className='rounded-md' alt="" />
+          <img src="https://res.cloudinary.com/drmeagmkl/image/upload/v1765536346/sujonbiswas_exfo5o.jpg" className='rounded-md hover:-translate-y-1 duration-100' alt="" />
         </div>
       </div>
     </Size_template>
